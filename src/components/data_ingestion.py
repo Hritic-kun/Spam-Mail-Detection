@@ -18,4 +18,5 @@ class DataIngestion:
         except Exception as e:
             logger.error(f"Failed to load data: {str(e)}")
             raise e
+
     
