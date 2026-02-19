@@ -46,7 +46,7 @@ A production-ready machine learning application designed to classify emails as *
 ### 1. Clone the Repository
 ```bash
 git clone <repository_url>
-cd spam_detect
+cd Spam-Mail-Detection
 ```
 
 ### 2. Set up Environment
@@ -109,3 +109,4 @@ The system performs comprehensive evaluation using metrics such as **Accuracy**,
 ## 📝 License
 
 Distributed under the MIT License.
+
